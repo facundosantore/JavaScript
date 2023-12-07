@@ -1,0 +1,22 @@
+// este es un comentario de sass
+
+@import "utilities/global";
+@import "utilities/lists.scss";
+@import "utilities/variables";
+@import "utilities/mixins";
+
+
+@import "components/header";
+
+@import "pages/mainindex";
+@import "pages/maincontacto";
+@import "pages/mainproductos";
+@import "pages/mainquienes";
+@import "pages/maincuidado";
+
+
+
+
+@import "components/footer";
+
+@import "utilities/media-queries";
